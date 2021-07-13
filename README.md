@@ -1,6 +1,6 @@
 # Dataset of Shell Commands Collected During Cybersecurity Training
 
-This repository contains **13350** log records from **174** trainees who participated in cybersecurity exercises. The dataset constitutes a supplementary material for the following journal paper:
+This repository contains **13447** log records from **175** trainees who participated in cybersecurity exercises. The dataset constitutes a supplementary material for the following journal paper:
 
 Valdemar Švábenský, Jan Vykopal, Pavel Seda, and Pavel Čeleda.\
 Dataset of Shell Commands Collected During Cybersecurity Training.\
