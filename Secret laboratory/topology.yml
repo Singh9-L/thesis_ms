@@ -1,6 +1,6 @@
 provisioning: Openstack
 
-name: alpha2020may
+name: charlie2020
 hosts:
 
   - name: server
