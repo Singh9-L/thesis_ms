@@ -16,27 +16,19 @@ Valdemar Švábenský, Jan Vykopal, Pavel Seda, and Pavel Čeleda.\
 *Dataset of Shell Commands Used by Participants of Hands-on Cybersecurity Training.*\
 In Elsevier Data in Brief. 2021.
 
-However, the article is currently under peer review. If you use the dataset before it is published, please cite the conference paper below instead. Once the article is accepted, we will create a citation record specifically for it.
-
-Valdemar Švábenský, Jan Vykopal, Daniel Tovarňák, and Pavel Čeleda.\
-*Toolset for Collecting Shell Commands and Its Application in Hands-on Cybersecurity Training.*\
-In Proceedings of the 51st IEEE Frontiers in Education Conference (FIE' 2021).
+(The article is currently in press. DOI/URL to the paper will be added after publication.)
 
 ```
-@inproceedings{Svabensky2021toolset,
-    author    = {\v{S}v\'{a}bensk\'{y}, Valdemar and Vykopal, Jan and Tovar\v{n}\'{a}k, Daniel and \v{C}eleda, Pavel},
-    title     = {{Toolset for Collecting Shell Commands and Its Application in Hands-on Cybersecurity Training}},
-    booktitle = {Proceedings of the 51st IEEE Frontiers in Education Conference},
-    series    = {FIE '21},
-    location  = {Lincoln, Nebraska, USA},
-    publisher = {IEEE},
-    address   = {New York, NY, USA},
-    month     = {10},
+@article{Svabensky2021dataset,
+    author    = {\v{S}v\'{a}bensk\'{y}, Valdemar and Vykopal, Jan and Seda, Pavel and \v{C}eleda, Pavel},
+    title     = {{Dataset of Shell Commands Used by Participants of Hands-on Cybersecurity Training}},
+    journal   = {{Data in Brief}},
+    publisher = {Elsevier},
     year      = {2021},
-    pages     = {1--9},
-    numpages  = {9},
 }
 ```
+
+The data were collected using a logging toolset referenced [here](https://zenodo.org/record/5126693).
 
 ## Credits
 
