@@ -28,7 +28,11 @@ In Elsevier Data in Brief. 2021.
 }
 ```
 
-The data were collected using a logging toolset referenced [here](https://zenodo.org/record/5126693).
+## Related materials
+
+* [Logging toolset](https://zenodo.org/record/5126693) for collecting the data
+* [Analytical software](https://gitlab.ics.muni.cz/muni-kypo/tools/commands-elk) for analyzing the data
+* [Cybersecurity games](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index) from which the data were collected
 
 ## Credits
 
