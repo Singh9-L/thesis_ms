@@ -10,7 +10,7 @@ In Elsevier Data in Brief. 2021.
 
 ## How to cite
 
-Feel free to use the dataset in any way, as long as you cite the original work:
+Feel free to use the dataset as long as you cite the original work:
 
 Valdemar Švábenský, Jan Vykopal, Pavel Seda, and Pavel Čeleda.\
 *Dataset of Shell Commands Used by Participants of Hands-on Cybersecurity Training.*\
@@ -20,11 +20,12 @@ Available as open-access article on https://www.sciencedirect.com/science/articl
 ```
 @article{Svabensky2021dataset,
     author    = {\v{S}v\'{a}bensk\'{y}, Valdemar and Vykopal, Jan and Seda, Pavel and \v{C}eleda, Pavel},
-    title     = {{Dataset of Shell Commands Used by Participants of Hands-on Cybersecurity Training}},
+    title     = {Dataset of shell commands used by participants of hands-on cybersecurity training}},
     journal   = {{Data in Brief}},
     publisher = {Elsevier},
     issn      = {2352-3409},
     year      = {2021},
+    volume    = {38},
     doi       = {10.1016/j.dib.2021.107398},
     url       = {https://www.sciencedirect.com/science/article/pii/S2352340921006806}
 }
