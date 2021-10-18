@@ -20,7 +20,7 @@ Available as open-access article on https://www.sciencedirect.com/science/articl
 ```
 @article{Svabensky2021dataset,
     author    = {\v{S}v\'{a}bensk\'{y}, Valdemar and Vykopal, Jan and Seda, Pavel and \v{C}eleda, Pavel},
-    title     = {Dataset of shell commands used by participants of hands-on cybersecurity training}},
+    title     = {Dataset of shell commands used by participants of hands-on cybersecurity training},
     journal   = {{Data in Brief}},
     publisher = {Elsevier},
     issn      = {2352-3409},
