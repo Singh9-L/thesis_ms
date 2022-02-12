@@ -15,7 +15,7 @@ Feel free to use the dataset as long as you cite the original work:
 Valdemar Švábenský, Jan Vykopal, Pavel Seda, and Pavel Čeleda.\
 *Dataset of Shell Commands Used by Participants of Hands-on Cybersecurity Training.*\
 In Elsevier Data in Brief. 2021.\
-Available as open-access article on https://www.sciencedirect.com/science/article/pii/S2352340921006806
+Available as open-access article on https://doi.org/10.1016/j.dib.2021.107398
 
 ```
 @article{Svabensky2021dataset,
