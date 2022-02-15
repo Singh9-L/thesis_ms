@@ -36,6 +36,7 @@ Available as open-access article on https://doi.org/10.1016/j.dib.2021.107398
 * [Logging toolset](https://zenodo.org/record/5126693) for collecting the data
 * [Analytical software](https://gitlab.ics.muni.cz/muni-kypo/tools/commands-elk) for analyzing the data
 * [Cybersecurity games](https://gitlab.ics.muni.cz/muni-kypo-trainings/games/all-games-index) from which the data were collected
+* [Training actions](https://gitlab.ics.muni.cz/muni-kypo-trainings/datasets/training-actions) from a selected training
 
 ## Credits
 
