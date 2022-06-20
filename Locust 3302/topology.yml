@@ -1,6 +1,6 @@
 provisioning: Openstack
 
-name: echo2019
+name: pv276-2019-Echo
 hosts:
   - name: web
     base_box: debian-10-x86_64

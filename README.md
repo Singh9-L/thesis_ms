@@ -1,6 +1,10 @@
 # Dataset of Shell Commands Used by Participants of Hands-on Cybersecurity Training
 
-This repository contains **13446** log records from **175** trainees who participated in cybersecurity training.
+This repository contains log records from participants who participated in cybersecurity training.
+
+Version history:
+* Version 2 (current): **21762** log records from **275** trainees.
+* Version 1 (original): **13446** log records from **175** trainees.
 
 The dataset constitutes a supplementary material for the following journal paper, which describes the repository structure and data format:
 
